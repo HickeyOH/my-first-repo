@@ -1,0 +1,23 @@
+commit e46dac9d6c5d1b8ae48e3fbea1cea568a4e7bf91
+Author: HickeyOH <orlaithhickey@live.com>
+Date:   Thu Sep 24 14:57:25 2020 +0100
+
+    added gitignore
+
+commit c0aa08586c532a630d5cba69bd2d18af4a77b016
+Author: HickeyOH <orlaithhickey@live.com>
+Date:   Wed Sep 23 14:11:04 2020 +0100
+
+    added fileB.txt
+
+commit af12b4510c07f8ce49e333b418bf466ab26a9701
+Author: HickeyOH <orlaithhickey@live.com>
+Date:   Wed Sep 23 14:05:26 2020 +0100
+
+    add textfile.txt
+
+commit cd9d225e6604d31e846ec149671b8c505f580316
+Author: HickeyOH <orlaithhickey@live.com>
+Date:   Wed Sep 23 14:04:12 2020 +0100
+
+    add textfile

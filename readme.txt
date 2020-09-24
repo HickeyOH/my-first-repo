@@ -1,3 +1,1 @@
-Git Exercise
-This is the second line
 I added this line in the update-readme branch
