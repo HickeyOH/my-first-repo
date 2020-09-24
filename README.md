@@ -4,8 +4,8 @@ I am from Ireland
 I am 24
 
 I like 
--*reading
--*baking
+- *reading
+- *baking
 
 I have been to 
 1. France
